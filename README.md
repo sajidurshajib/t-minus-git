@@ -6,3 +6,6 @@ This is a new line for new branch.
 just check credentials.
 another check, again
 
+git config credential.helper store
+git config --unset credential.helper
+
